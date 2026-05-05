@@ -75,8 +75,8 @@ Extract insights from lengthy PDF files (e.g., journals, resumes, manuals):
 ### 2. Clone & Install Dependencies
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/zhraan/rexa_personal-productivity-assistant
+cd rexa_personal-productivity-assistant
 
 # Create a virtual environment (recommended)
 python -m venv venv
