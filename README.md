@@ -94,7 +94,7 @@ pip install -r requirements.txt
 ### 3. Environment Variables
 Create a `.env` file in the root directory (alongside `streamlit_chatbot.py`) and add the API Key:
 ```env
-GEMINI_API_KEY="AIzaSy_YOUR_API_KEY_HERE"
+GEMINI_API_KEY="YOUR_API_KEY_HERE"
 ```
 *(Note: The API Key can also be inputted directly via the application's sidebar).*
 
